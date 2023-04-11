@@ -1,1 +1,1 @@
-# Robotics-Hand-simulator-using-python-and-opencv
+# Robotics Hand Simulator using Python and openCV
